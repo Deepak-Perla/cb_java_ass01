@@ -1,6 +1,2 @@
-## CB_Java_01
-#### This assignment given from Algo.Java and Crux from CB
+  [![HitCount](http://hits.dwyl.com/Deepak-Perla/cb_java_ass01.svg?style=flat-square)](http://hits.dwyl.com/Deepak-Perla/cb_java_ass01)
 
-Follow, Fork and Star this repo for more assignments
-
-Open for PRs.
